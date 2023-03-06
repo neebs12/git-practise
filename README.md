@@ -7,3 +7,4 @@
    3.2 I am attempting to do this in an additional commit - hopefully this works
 4. Another line added but also on the fourth commit
 5. Lorem
+6. Ipsum
