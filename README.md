@@ -6,3 +6,4 @@
    3.1 this line is added during edit of commit that added this line!
    3.2 I am attempting to do this in an additional commit - hopefully this works
 4. Another line added but also on the fourth commit
+5. Lorem
